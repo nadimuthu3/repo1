@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+ <!--   <test name="loginTestCases">
+    <classes>
+      <class name="frameworks.MyFirstTestNGClass"/>
+    </classes>
+  </test> -->
+  <test name="logoutTestCases">
+    <classes>
+      <class name="frameworks.MySecondTestNGClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
