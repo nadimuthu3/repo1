@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="customerManagementSuite" verbose="1" >
+  <test name="createCustomerSuite" >
+    <classes>
+      <class name="com.juneproject.createcustomer.Createcustomer"/>
+    </classes>
+ </test>
+
+</suite>
