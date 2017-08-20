@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [customerManagementSuite]">
+  <test name="createCustomerSuite(failed)">
+    <classes>
+      <class name="com.juneproject.createcustomer.CreateCustomerPageObjectBased">
+        <methods>
+          <include name="createCustomer"/>
+        </methods>
+      </class> <!-- com.juneproject.createcustomer.CreateCustomerPageObjectBased -->
+    </classes>
+  </test> <!-- createCustomerSuite(failed) -->
+</suite> <!-- Failed suite [customerManagementSuite] -->

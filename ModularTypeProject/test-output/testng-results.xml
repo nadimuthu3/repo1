@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="customerManagementSuite" duration-ms="30957" started-at="2017-08-19T14:26:51Z" finished-at="2017-08-19T14:27:22Z">
+    <groups>
+    </groups>
+    <test name="createCustomerSuite" duration-ms="30957" started-at="2017-08-19T14:26:51Z" finished-at="2017-08-19T14:27:22Z">
+      <class name="com.juneproject.createcustomer.CreateCustomer3">
+        <test-method status="PASS" signature="createCustomerWithValidData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.juneproject.createcustomer.CreateCustomer3@57fffcd7]" name="createCustomerWithValidData" duration-ms="17208" started-at="2017-08-19T19:56:53Z" data-provider="createCustomer" finished-at="2017-08-19T19:57:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nadi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[muthu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[07/30/1988]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[learnnclear@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[nadimuthu]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[address1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[address2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[saveetha]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[BE]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[EEE]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2011]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[71]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerWithValidData -->
+        <test-method status="PASS" signature="createCustomerWithValidData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.juneproject.createcustomer.CreateCustomer3@57fffcd7]" name="createCustomerWithValidData" duration-ms="11771" started-at="2017-08-19T19:57:10Z" data-provider="createCustomer" finished-at="2017-08-19T19:57:22Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value is-null="true"/>
+            </param>
+            <param index="6">
+              <value is-null="true"/>
+            </param>
+            <param index="7">
+              <value is-null="true"/>
+            </param>
+            <param index="8">
+              <value is-null="true"/>
+            </param>
+            <param index="9">
+              <value is-null="true"/>
+            </param>
+            <param index="10">
+              <value is-null="true"/>
+            </param>
+            <param index="11">
+              <value is-null="true"/>
+            </param>
+            <param index="12">
+              <value is-null="true"/>
+            </param>
+            <param index="13">
+              <value is-null="true"/>
+            </param>
+            <param index="14">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerWithValidData -->
+      </class> <!-- com.juneproject.createcustomer.CreateCustomer3 -->
+    </test> <!-- createCustomerSuite -->
+  </suite> <!-- customerManagementSuite -->
+</testng-results>
