@@ -23,7 +23,7 @@
 				<configuration>
 					<!-- &lt;forkMode>none</forkMode> 'none' is so we can debug -->
 					<suiteXmlFiles>
-						<suiteXmlFile>${basedir}/src/test/resources/suiteFiles/${suite}</suiteXmlFile>
+						<suiteXmlFile>${basedir}/src/test/resources/com/juneproject/suites/${suite}</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
