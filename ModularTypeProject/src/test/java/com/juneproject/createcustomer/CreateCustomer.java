@@ -37,7 +37,7 @@ public class CreateCustomer extends Seleniumutility{
 			report = new ExtentReports("src/test/resources/com/juneproject/reports/CustomerCreateReport.html", false);
 			test = report.startTest("Create Customer");
 			
-			test.log(LogStatus.INFO, "launch browser and load app");
+			test.log(LogStatus.INFO, "launch app");
 			Applaunch("firefox","http://learnnshine.com/drupal/node/add/customers");
 			test.log(LogStatus.INFO, "enter first name");
 			textboxHandle("id","edit-title",fname);
