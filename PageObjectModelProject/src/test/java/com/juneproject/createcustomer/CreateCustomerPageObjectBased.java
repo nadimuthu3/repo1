@@ -27,7 +27,7 @@ public class CreateCustomerPageObjectBased extends Seleniumutility{
 		
 		ExtentTest test = null;
 		try {
-			test = reports.startTest("create customer with proper data ff");
+			test = reports.startTest("create customer with proper data erer");
 		
 			test.log(LogStatus.INFO, "add personal info");
 			cObjects.firstName(driver).sendKeys(firstName);
