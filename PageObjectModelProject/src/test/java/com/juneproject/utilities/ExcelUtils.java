@@ -45,7 +45,7 @@ public class ExcelUtils {
 
 			tabArray = new String[totalRows + 1][totalCols];
 			ci = 0;
-			for (int i = startRow; i < totalRows; i++, ci++) {
+			for (int i = startRow; i <=totalRows; i++, ci++) {
 				//System.out.println("value of i "+i);
 				cj = 0;
 				for (int j = startCol; j < totalCols; j++, cj++) {
