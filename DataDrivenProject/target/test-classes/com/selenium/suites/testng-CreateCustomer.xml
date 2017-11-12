@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CreateCustomerSanityRun" parallel="false">
+	<parameter name="browserName" value="chrome"></parameter>
+	<parameter name="platform" value="win8"></parameter>
+	<test name="CreateCustomer">
+		<!-- <groups>
+			<run>
+				<include name="login" />
+				<include name="regression" />
+			</run>
+		</groups> -->
+		<classes>
+			<class name="com.selenium.createCustomer.CreateCustomer">
+				<methods>
+					<include name="createCustomerWithValidData"></include>
+<!-- 					<include name="createCustomerWithInValidData"></include> -->
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

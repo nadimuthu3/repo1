@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CreateCustomerSanityRun]">
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="platform" value="win8"/>
+  <test name="CreateCustomer(failed)">
+    <classes>
+      <class name="com.selenium.createCustomer.CreateCustomer">
+        <methods>
+          <include name="createCustomerWithValidData"/>
+        </methods>
+      </class> <!-- com.selenium.createCustomer.CreateCustomer -->
+    </classes>
+  </test> <!-- CreateCustomer(failed) -->
+</suite> <!-- Failed suite [CreateCustomerSanityRun] -->
