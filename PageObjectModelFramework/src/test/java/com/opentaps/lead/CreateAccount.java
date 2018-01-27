@@ -15,4 +15,9 @@ public class CreateAccount {
   public void filehandling() {
 	  System.out.println("jkfdkjdsvgfdvghdjf");
   }
+  
+  @Test
+  public void telnetconnection() {
+	  System.out.println("hi");
+  }
 }
