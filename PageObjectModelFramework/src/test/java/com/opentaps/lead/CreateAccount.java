@@ -7,4 +7,8 @@ public class CreateAccount {
   public void f() {
 	  System.out.println("hi");
   }
+  @Test
+  public void testcase() {
+	  System.out.println("hi");
+  }
 }
