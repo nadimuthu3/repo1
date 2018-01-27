@@ -11,4 +11,8 @@ public class CreateAccount {
   public void testcase() {
 	  System.out.println("hi");
   }
+  @Test
+  public void filehandling() {
+	  System.out.println("hi");
+  }
 }
