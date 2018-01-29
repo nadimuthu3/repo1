@@ -1,0 +1,8 @@
+com\opentaps\modules\LoginAndLogoutModule.class
+com\opentaps\lead\MergeLeads.class
+com\opentaps\lead\CreateAndEditLead.class
+com\opentaps\lead\CreateLeadTestCaseClass.class
+com\opentaps\utilities\SeleniumUtiltiy.class
+com\opentaps\lead\CreateAndDeleteLead.class
+com\opentaps\modules\AccountModule.class
+com\opentaps\modules\LeadModule.class
