@@ -4,6 +4,7 @@
     <classes>
       <class name="com.juneproject.createcustomer.Managecustomer"/>
       <class name="com.juneproject.createcustomer.Managecustomer"/>
+      <class name="com.juneproject.createcustomer.Managecustomer"/>
     </classes>
  </test>
 
