@@ -29,7 +29,7 @@ public class CreateCustomer extends Seleniumutility{
 	
 	@Test
 	public void tc1() {
-		
+		System.out.println("sfds");
 	}
 	
 	@Test(dataProvider="createCustomer")
