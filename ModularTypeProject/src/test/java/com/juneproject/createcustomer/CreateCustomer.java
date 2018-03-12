@@ -27,7 +27,10 @@ public class CreateCustomer extends Seleniumutility{
 		
 	}
 	
-	
+	@Test
+	public void tc1() {
+		
+	}
 	
 	@Test(dataProvider="createCustomer")
 	public void createCustomer(String fname, String lname, String dob, String mobile, String email,String address1, String address2, String institution, String degree, String specialization){
