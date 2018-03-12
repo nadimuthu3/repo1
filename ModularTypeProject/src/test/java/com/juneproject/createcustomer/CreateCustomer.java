@@ -22,7 +22,7 @@ public class CreateCustomer extends Seleniumutility{
 			
 		};*/
 		
-		
+		System.out.println("dummy");
 		return ExcelUtils.getTableArray("C:\\Users\\njayapal\\testCaseData.xlsx", "CreateCustomer");
 		
 	}
