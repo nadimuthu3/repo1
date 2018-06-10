@@ -9,6 +9,7 @@ import com.opentaps.utilities.SeleniumUtiltiy;
 public class CreateAndDeleteLead extends SeleniumUtiltiy {
 	LoginAndLogoutModule login = new LoginAndLogoutModule();
 	LeadModule lead = new LeadModule();
+	int a = 0;
 	@Test
   public void f() throws InterruptedException {
 	  launchBrowserAndApp("chrome", "http://leaftaps.com/opentaps");
@@ -17,5 +18,6 @@ public class CreateAndDeleteLead extends SeleniumUtiltiy {
 	  lead.deleteLead();
 	  login.logout();
 	  //nadi changed
+	  
   }
 }
