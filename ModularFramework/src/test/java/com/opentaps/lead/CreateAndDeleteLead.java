@@ -16,5 +16,6 @@ public class CreateAndDeleteLead extends SeleniumUtiltiy {
 	  lead.createLead();
 	  lead.deleteLead();
 	  login.logout();
+	  //nadi changed
   }
 }
